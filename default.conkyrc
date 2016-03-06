@@ -24,10 +24,10 @@ draw_shades no
 draw_outline no
 draw_borders no
 draw_graph_borders no
-default_color ffffff
+default_color 35DB26
 default_shade_color 000000
 default_outline_color 828282
-alignment top_left
+alignment top_right
 gap_x 12
 gap_y 35
 no_buffers yes
@@ -82,5 +82,3 @@ $font${top_mem name 5}${alignr}${top mem 5} %
 #Download: ${downspeed wlan0} $alignr Total: ${totaldown wlan0}
 #${upspeedgraph wlan0}
 #Upload: ${upspeed wlan0} $alignr Total: ${totalup wlan0}
-
-
