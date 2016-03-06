@@ -31,7 +31,11 @@ Upload it just as you would do with any .obt
 place it in ~/.config/tint2/
 To customize the quicklauncher go at the LAUNCHERS section in the bottom of the file
 
-### Wallpaper
+# Wallpaper
+
+# Geany
+Get the themes from here: https://github.com/geany/geany-themes/
+and choose the retro style
 
 
 
