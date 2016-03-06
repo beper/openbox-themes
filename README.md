@@ -1,2 +1,2 @@
 # openbox-themes
-Configuration to have a matrix-like openbox style
+A couple of configuration for different openbox setups mostly for personal use
